@@ -1,0 +1,6 @@
+git rm -r --cached .
+git add .
+/.vs
+/FikaScavCoop/bin/Release/netstandard2.1
+/FikaScavCoop/Libs
+/FikaScavCoop/obj
